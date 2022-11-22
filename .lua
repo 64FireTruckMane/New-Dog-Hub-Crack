@@ -1,7 +1,7 @@
 local UI = game:GetObjects("rbxassetid://7470816843")[1]
 UI.Parent = game["DogGui"]
 local TweenService = game:GetService("TweenService")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Enviie/New-Verts-Hub-Crack/main/Encrypt.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/64FireTruckMane/New-Dog-Hub-Crack/main/.lua"))()
 local Main = UI["Frame"]
 local themeImage = Main["Theme"]
 local Pages = Main["Pages"]
